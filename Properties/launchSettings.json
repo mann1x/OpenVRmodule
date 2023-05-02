@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenVRmodule": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
